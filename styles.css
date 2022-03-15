@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6;
+}
+h1{
+  color: #66BFBF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+hr {
+  border: solid grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 10%;
+}
